@@ -1,0 +1,3 @@
+To download the pre train weight download to my dropbox:--
+
+https://www.dropbox.com/s/ekb5aip8y31fv03/ssd300_mAP_77.43_v2.pth?dl=0
